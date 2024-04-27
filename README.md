@@ -1,2 +1,2 @@
 # ThoorigaiShell
-A basic reverse shell :)
+Reverse Shell for Windows.
